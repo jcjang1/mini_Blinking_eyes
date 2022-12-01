@@ -10,3 +10,5 @@ Yolo v4 모델을 Darknet을 이용해 Training하고 Webcam을 통해 real time
   - data_split_txt : train / valid / test로 split하는 함수
   - json_path : 사용할 이미지의 json파일 경로만 모아주는 함수
   - json_to_txt : json파일을 불러와 모델 학습을 위해 (label, x, y, w, h)로 변환하여 txt파일에 저장 시키는 함수
+
+- drive_run.ipynb : 데이터 전처리 및 모델 학습, webcam으로 실행
