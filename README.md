@@ -2,7 +2,7 @@
 
 Yolo v4 모델을 Darknet을 이용해 Training하고 Webcam을 통해 real time Detecting 하는 project 진행
 
-- drive_class.ipynb : Data 전처리를 위한 class ipynb 파일
+- drive_class.ipynb : Data 전처리 코드를 class화
   - all_data_path : 학습을 위한 이미지의 모든 데이터 경로를 한 txt 파일에 write하여 저장하는 함수
   - pick_data_path : 사용할 이미지의 경로만 한 txt파일에 write하여 저장하는 함수
   - shuffle_pick : 학습시 데이터를 골고루 사용할 수 있도록 shuffle하는 함수
