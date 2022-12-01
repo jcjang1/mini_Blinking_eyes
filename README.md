@@ -12,3 +12,8 @@ Yolo v4 모델을 Darknet을 이용해 Training하고 Webcam을 통해 real time
   - json_to_txt : json파일을 불러와 모델 학습을 위해 (label, x, y, w, h)로 변환하여 txt파일에 저장 시키는 함수
 
 - drive_run.ipynb : 데이터 전처리 및 모델 학습, webcam으로 실행
+
+
+------------
+
+참가 인원 : 박한빈 장주찬 안홍민 윤소미
